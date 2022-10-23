@@ -1,4 +1,4 @@
-// To represent Snake Game
+
 public class Game {
 
 	public static final int DIRECTION_NONE = 0, DIRECTION_RIGHT = 1,
