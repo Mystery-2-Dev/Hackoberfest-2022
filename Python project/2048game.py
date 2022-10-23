@@ -1,8 +1,4 @@
-# logic.py to be
-# imported in the 2048.py file
 
-# importing random package
-# for methods to generate random
 # numbers.
 import random
 
